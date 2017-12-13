@@ -1,3 +1,9 @@
 # COMP210_2_interace_task
 
-I plan to create a game for the hololens in which the player will have to cut up a dead body and hide the peices around the room before the time runs out and a person comes to search the room, they will search randomly unless a player looks too much at a specific area of the room in which case the searcher will search that area 
+I'm going to create a VR version of my comp230 group game. The player is a shark and has to eat all the fish before the time runs out to win otherwise they starve to death.
+
+## Commercial Potential
+
+My game would be rather like the subnautica VR game which according to steamspy sells for $24.99 so I sell HighTide VR for about $10 as it isn't as well known and doesn't have such a large fan base.
+
+Most VR game underwater such as the Blu is exploratory with little game play. Narcosis and The Deep are horror/ exploration.
